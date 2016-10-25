@@ -1,4 +1,3 @@
-/* fscanf example */
 #include <stdio.h>
 
 FILE * pFile2;
